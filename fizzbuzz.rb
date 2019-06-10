@@ -1,5 +1,6 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
+int = 17
 def fizzbuzz(int)
 
   if int % 3 == 0
@@ -20,4 +21,4 @@ def fizzbuzz(int)
 
 end
 
-fizzbuzz(15)
+# fizzbuzz(15)
